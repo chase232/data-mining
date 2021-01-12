@@ -1,3 +1,3 @@
 # data-mining
 
-# A variety of Data mining algorithms
+A variety of Data mining algorithms
